@@ -85,5 +85,3 @@ if __name__ == '__main__':
     result = data_photo.getphoto(id)
     path = uploader.create_path()
     new_result = uploader.upload(result)
-
-
